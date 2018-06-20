@@ -1,3 +1,9 @@
+/*
+Напишете програма ,която чете 3 точки от равнината (x и y координатите), изчислява лицето на тригълника образуван от тези 3 точки.
+Ако трите точки не сформират триъгълник ,да се изпише 0.
+
+*/
+
 package net.progressbg.javabasics20180616.variablesandconditionaloperators;
 
 import java.util.Scanner;

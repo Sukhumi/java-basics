@@ -1,3 +1,7 @@
+/*
+Да се напише програма, която въвежда цяло число и проверява дали е под 100, между 100 и 200 или над 200.
+*/
+
 package net.progressbg.javabasics20180616.variablesandconditionaloperators;
 
 import java.util.Scanner;

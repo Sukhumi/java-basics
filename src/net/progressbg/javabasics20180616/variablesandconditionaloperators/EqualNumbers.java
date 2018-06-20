@@ -1,6 +1,10 @@
+/*
+Да се въведат 3 числа и да се отпечата дали са еднакви (yes / no)
+*/
 package net.progressbg.javabasics20180616.variablesandconditionaloperators;
 
 import java.util.Scanner;
+
 
 public class EqualNumbers {
     public static void main(String[] args) {

@@ -1,13 +1,13 @@
-package net.progressbg.javabasics20180616.variablesandconditionaloperators;
-
-import java.util.Scanner;
-
 /*
  Ще казваме,че поредица от числа е трион,ако всяко число в нея е едновременно по-голямо или равно от двата си
  съседа или пък едновременно по-малко или равно от тях.За първия и последния елемент имаме само по един съсед.За
  определеност,считаме,че празната редица и всяка редица съставена само от един елемент също са трион.Например дадените
  по-долу редица са триони:
 */
+package net.progressbg.javabasics20180616.variablesandconditionaloperators;
+
+import java.util.Scanner;
+
 
 public class SawLine {
     public static void main(String[] args) {

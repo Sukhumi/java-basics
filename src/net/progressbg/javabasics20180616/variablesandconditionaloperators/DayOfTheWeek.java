@@ -1,6 +1,11 @@
+/*
+Да се напише програма, която приема от стандартния вход число и програмата казва кой ден от седмицата отговаря на числото.Например ,
+ако се въведе 1 ,програмата трябва да изпише Monday,ако се въведе 50 ,програмата трябва да даде съобщение за грешка.
+*/
 package net.progressbg.javabasics20180616.variablesandconditionaloperators;
 
 import java.util.Scanner;
+
 
 public class DayOfTheWeek {
     public static void main(String[] args) {

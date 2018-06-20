@@ -1,3 +1,9 @@
+/*
+Да се напише програма, която въвежда две думи и проверява дали са еднакви.
+Да не се прави разлика между главни и малки думи. Да се изведе “yes” или “no”.
+
+*/
+
 package net.progressbg.javabasics20180616.variablesandconditionaloperators;
 
 import java.util.Scanner;
