@@ -21,7 +21,7 @@ public class SawLine {
         e = sc.nextInt();
 
         if ((b >= a && b >= c) && (d >= c && d >= e) ||
-                (b >= a && b >= c) && (d >= c && d >= e)) {
+                (b <= a && b <= c) && (d <= c && d <= e)) {
             System.out.println("yes");
         } else {
             System.out.println("no");
