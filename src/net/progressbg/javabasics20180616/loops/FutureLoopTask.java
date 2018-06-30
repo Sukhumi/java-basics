@@ -8,6 +8,7 @@ public class FutureLoopTask {
 //         System.out.println(Math.pow(2,i));
             System.out.print(b + ",");
             b = b * 2;
+            //test
         }
     }
 }
