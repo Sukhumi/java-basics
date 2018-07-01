@@ -4,6 +4,7 @@
   които трябва да се сложат в масива. Програмата да изведе всички делители,
    които са общи, на въведените числа в масива
  */
+
 package net.progressbg.javabasics20180616.arrays;
 
 import java.util.Scanner;
