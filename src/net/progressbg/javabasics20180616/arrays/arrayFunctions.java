@@ -53,7 +53,7 @@ public class arrayFunctions {
         return gcd(b % a, a);
     }
 
-    static int[] arrInput(int length) {
+    public static int[] arrInput(int length) {
 
         Scanner sc = new Scanner(System.in);
         int[] arr = new int[length];
