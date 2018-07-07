@@ -27,7 +27,7 @@ public class arrayFunctions {
     }
 
 
-    static boolean isPrime(int n) {
+    public static boolean isPrime(int n) {
 
         boolean isPrime = true;
 
